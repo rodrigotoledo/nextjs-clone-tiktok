@@ -5,10 +5,10 @@ import { Container, SidebarContainer, ContentContainer } from "./styles";
 function Layout({children}){
   return (
     <>
-      <Header></Header>
+      <Header />
       <Container>
         <SidebarContainer>
-          <Sidebar></Sidebar>
+          <Sidebar />
         </SidebarContainer>
         <ContentContainer>{children}</ContentContainer>
       </Container>

@@ -1,4 +1,4 @@
-import styled from "styled-components";
+import styled from 'styled-components';
 
 export const Container = styled.div`
   position: fixed;
@@ -8,7 +8,6 @@ export const Container = styled.div`
   width: 250px;
   padding-top: 26px;
 `;
-
 export const MenuItem = styled.div`
   cursor: pointer;
   color: #161823;
@@ -18,10 +17,10 @@ export const MenuItem = styled.div`
   padding: 0 12px;
   box-sizing: border-box;
   height: 60px;
-  :hover{
-    background: rgba(22, 24, 35, 0.0.3);
+  :hover {
+    background: rgba(22, 24, 35, 0.03);
   }
-  > span{
+  > span {
     font-weight: ${(props) => (props.active ? '700' : '400')};
     margin-left: 13px;
     font-size: 24px;
@@ -57,12 +56,12 @@ export const InfoContainer = styled.div`
   padding-bottom: 24px;
   width: 240px;
   box-sizing: border-box;
-  color: rgba(22, 24, 35, 0.5);
+  color: rgba(22, 24, 35, 0.5) !important;
 `;
 
 export const Links = styled.div`
-  margin-bottom: ${(props) => (props.margin ? '8px' : '0px')};
-  a > {
+  margin-bottom: '8px';
+  > a {
     cursor: pointer;
     display: inline-block;
     margin-right: 5px;
@@ -72,8 +71,6 @@ export const Links = styled.div`
     line-height: 12px;
     color: rgba(22, 24, 35, 0.5);
     font-family: 'proxima-semibold', PingFangSC, sans-serif;
-    :hover {
-      text-decoration: underline;
-    }
+    text-decoration: underline;
   }
 `;

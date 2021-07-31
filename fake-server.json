@@ -1,0 +1,112 @@
+{
+  "posts": [
+    { "id": 1, 
+      "description": "Facere officia iusto fugiat omnis eveniet eum assumenda quo officiis.",
+      "tags": [{ "title": "#quod-est-quaerat"}, {"title": "#officia-magni-veritatis"}],
+      "songName": "Central Markets Agent",
+      "videoUrl": "https://static.videezy.com/system/resources/previews/000/017/943/original/ICON-VERSION3.mp4",
+      "likes": 72225,
+      "comments": 87218,
+      "replies": 33433,
+      "author": { "id": "1", "avatar": "https://picsum.photos/200/200?random=1", "username": "Mason80" } },
+    { "id": 2,
+      "description": "Ex laboriosam architecto soluta est aut itaque aut.",
+      "tags": [{ "title": "#explicabo-fugiat-sit"}, {"title": "#neque-fuga-nihil"}],
+      "songName": "Internal Intranet Producer",
+      "videoUrl": "https://static.videezy.com/system/resources/previews/000/035/451/original/18_022_05.mp4",
+      "likes": 37829,
+      "comments": 69809,
+      "replies": 77267,
+      "author": { "id": "1", "avatar": "https://picsum.photos/200/200?random=1", "username": "Mason80" } },
+    { "id": 3,
+      "description": "Delectus quasi ut et laboriosam autem molestiae cupiditate temporibus.",
+      "tags": [{ "title": "#debitis-dolore-magni"}, {"title": "#quia-similique-veniam"}],
+      "songName": "Chief Branding Analyst",
+      "videoUrl": "https://static.videezy.com/system/resources/previews/000/017/943/original/ICON-VERSION3.mp4",
+      "likes": 75008,
+      "comments": 44357,
+      "replies": 46057,
+      "author": { "id": "2", "avatar": "https://picsum.photos/200/200?random=1", "username": "Rachel64" } },
+    { "id": 4,
+      "description": "Quae autem et rerum cum numquam aspernatur ut soluta.",
+      "tags": [{ "title": "#omnis-ad-molestiae"}, {"title": "#aliquam-impedit-in"}],
+      "songName": "Customer Security Associate",
+      "videoUrl": "https://static.videezy.com/system/resources/previews/000/017/943/original/ICON-VERSION3.mp4",
+      "likes": 44838,
+      "comments": 61172,
+      "replies": 96944,
+      "author": { "id": "2", "avatar": "https://picsum.photos/200/200?random=1", "username": "Rachel64" } }
+  ],
+  "suggestions": {
+    "people": [
+      {
+        "name": "Evalyn",
+        "userName": "Felipa_Jerde29",
+        "avatar": "https://picsum.photos/200/200?random=1"
+      },
+      {
+        "name": "Cristobal",
+        "userName": "Raleigh.Schumm19",
+        "avatar": "https://picsum.photos/200/200?random=1"
+      },
+      {
+        "name": "Beaulah",
+        "userName": "Tracy82",
+        "avatar": "https://picsum.photos/200/200?random=1"
+      },
+      {
+        "name": "Beaulah",
+        "userName": "Tracy82",
+        "avatar": "https://picsum.photos/200/200?random=1"
+      },
+      {
+        "name": "Beaulah",
+        "userName": "Tracy82",
+        "avatar": "https://picsum.photos/200/200?random=1"
+      },
+      {
+        "name": "Beaulah",
+        "userName": "Tracy82",
+        "avatar": "https://picsum.photos/200/200?random=1"
+      }
+    ],
+    "recommendations": [
+      {
+        "title": "Sunt magni libero",
+        "views": "18582",
+        "avatar": "https://picsum.photos/200/200?random=1"
+      },
+      {
+        "title": "Et odit nam.",
+        "views": "41258",
+        "avatar": "https://picsum.photos/200/200?random=1"
+      },
+      {
+        "title": "Explicabo iustoa.",
+        "views": "47163",
+        "avatar": "https://picsum.photos/200/200?random=1"
+      },
+      {
+        "title": "Et odit name.",
+        "views": "41258",
+        "avatar": "https://picsum.photos/200/200?random=1"
+      },
+      {
+        "title": "Explicabo iusto.",
+        "views": "47163",
+        "avatar": "https://picsum.photos/200/200?random=1"
+      },
+      {
+        "title": "Et odit nam quam.",
+        "views": "41258",
+        "avatar": "https://picsum.photos/200/200?random=1"
+      },
+      {
+        "title": "Explicabo iusto.",
+        "views": "47163",
+        "avatar": "https://picsum.photos/200/200?random=1"
+      }
+    ]
+  },
+  "profile": { "name": "typicode" }
+}

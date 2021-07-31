@@ -20,7 +20,7 @@ function Sidebar(){
       }}></User>
     </Following>
     <InfoContainer>
-      <Links margin>
+      <Links>
         <a>Início</a>
         <a>Sobre</a>
         <a>Sala de imprensa</a>
@@ -35,7 +35,7 @@ function Sidebar(){
         <a>Diretrizes da comunidade</a>
         <a>Termos</a>
       </Links>
-      <Links margin>
+      <Links>
         <a>Privacidade</a>
       </Links>
       <Links margin>
